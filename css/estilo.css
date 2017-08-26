@@ -1,0 +1,33 @@
+body{
+    background-color: purple;
+    text-align: center;
+}
+header{
+   color: #f90;
+   text-shadow: 3px 2px black;
+   font-family:Sans-serif;
+   font-size: 60px;
+   display: block;
+   margin-top: 100px;
+
+}
+button{
+    margin-top: 50px;
+    border:5px thin dashed #f1f1f1;
+    border-style: groove;
+    border-radius: 80px;
+    height: 150px;
+    width: 150px;
+    background-color: #f90;
+    font-family:Sans-serif;
+    font-size: 30px;
+}
+#start{
+    display: block;
+}
+#desistir{
+    display: none;
+}
+#concluir{
+    display: none;
+}
